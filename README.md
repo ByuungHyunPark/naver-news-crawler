@@ -1,7 +1,6 @@
 # 네이버 뉴스기사 크롤링
 - AICT fake news detection 프로젝트 데이터 구축에 사용
 - 참고 링크 : https://github.com/lumyjuwon/KoreaNewsCrawler
-- 위 링크에서 기사 감정표현, 수정시간 등 추가 + 정규표현식 약간의 수정
 
 ##### arciclecrawler.py
 ```python
